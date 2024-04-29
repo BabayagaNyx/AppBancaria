@@ -10,9 +10,8 @@ public class Main {
         System.out.println("\nNombre del cliente: " + nombre);
         System.out.println("Tipo de cuenta: " + tipoDeCuenta);
         System.out.println("Saldo dispoble: " + saldo);
-        System.out.println("\n***********************************************");
-        System.out.println("\n***********************************************");
-        System.out.println("\n***********************************************");
+        System.out.println("\n**************////*******************************");
+
 
         String menu = """
                 -- Escriba el numero de la opcion deseada --
