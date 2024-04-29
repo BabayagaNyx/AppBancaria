@@ -12,6 +12,7 @@ public class Main {
         System.out.println("Saldo dispoble: " + saldo);
         System.out.println("\n***********************************************");
         System.out.println("\n***********************************************");
+        System.out.println("\n***********************************************");
 
         String menu = """
                 -- Escriba el numero de la opcion deseada --
